@@ -68,9 +68,6 @@
 
 &#160;
 
-&#160;
 
-![Joshua Pearce](https://opensource.com/sites/default/files/styles/profile_pictures/public/jmp.jpg?itok=51DWNspk)
-
-# 关于作者
+# ![Joshua Pearce](https://opensource.com/sites/default/files/styles/profile_pictures/public/jmp.jpg?itok=51DWNspk)关于作者
 Joshua Pearce——博士Joshua Pearce在密歇根理工大学任教材料科学与工程和电子与计算机工程学院的教授。他目前带领着密歇根理工大学的开放可持续性技术(MOST)研究团队，同时他也是开源实验室的荣誉作者。Joshua教授的研究重点是开放与应用的可持续性，旨在不破坏生态的前提下，运用科技创新平等地提高全人类现在的和未来的生活质量。[……](https://opensource.com/users/jmpearce)
