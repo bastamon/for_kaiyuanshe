@@ -3,6 +3,7 @@
 ![image](https://opensource.com/sites/default/files/styles/image-full-size/public/lead-images/rh_003784_02_os.comcareers_os_rh2x.png?itok=jbRfXinl)
 
 ***镜像源***：*opensource.com*
+原文：[https://opensource.com/article/17/1/grad-school-open-source-academic-lab](https://opensource.com/article/17/1/grad-school-open-source-academic-lab)
 
 &#160; &#160; &#160; &#160;科技公司通常更喜欢[雇佣那些有丰富开源经验的求职者](http://www.wired.com/2014/07/openhatch/)，这是因为简单且方便的开源体验更具有价值。随着开源软件在业界占据主导地位，以及更多软件趋向开源化和免费化，这种针对开源经验人员的雇佣偏好会越来越普遍。举例对比，据[Indeed.com薪资分析网站](http://www.indeed.com/salary?q1=linux&q2=microsoft+windows)的披露：从事关键字“Microsoft Windows”相关人员的平均薪资为6.4万美元，而从事关键词“Linux”相关人员的平均薪资却高达9.9万美元。上述两者明显的薪水差距足以说明用人单位对人才的偏好。
 
