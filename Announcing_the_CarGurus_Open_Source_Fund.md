@@ -44,13 +44,13 @@ Here are first projects we’re supporting as part of the CarGurus Open Source F
     RuboCop — A linter for ensuring our Ruby code quality.
     Webpack — The best solution for bundling JS, CSS, and other asset files.
 
-    Babel — 确保我们的JS库对所有用户都是前后版本兼容。
+    Babel — 确保我们的JS库对所有用户都是前后版本兼容的。
     FreeBSD — CarGurus公司并非过分依赖FreeBSD系统，但FreeBSD系统能为我们搭建的安全和稳定的互联网基础设施,并且我们还有一批工程师帮助维护这个系统。
-    GIT — 我们选择的分布式版本控制系统。
-    Homebrew — MacOS上最重要的包管理平台。
+    GIT — 我们选择使用的分布式版本控制系统。
+    Homebrew — MacOS系统上最重要的包管理平台。
     Linux Kernel — 一款能为CarGurus公司运行1000个虚拟机的操作系统。
     Open Web Application Security Project (OWASP) — 部署安全web应用程序的最好源码。
-    RuboCop — 确保我们Ruby代码质量的一款代码检查器
+    RuboCop — 一款保证我们Ruby代码质量的代码检查器
     Webpack — 捆绑JS，CSS和其他资源的最佳解决方案。
 
 ## Highlight Project: Apache Software Foundation
