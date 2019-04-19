@@ -80,4 +80,4 @@ Due to the massive amount of software and libraries from Apache that power CarGu
 ## 持续不断的支持
 This isn’t the end for the Open Source Fund, but just the beginning. The OSF is engineer founded and engineer run. We have commitment and support from management for continued funding, and the amount we give each quarter will increase as we grow the size of our engineering team. We’ll be running another round of funding next quarter as part of our ongoing commitment to give back to the engineering community at large.
 
-这些并不是开源基金要做的的全部，而仅仅只是开始。开源基金是由工程师创立并运营的。我们得到管理层的承诺和支持，将继续为其提供资金支持，而且随着我们工程队规模的扩大，我们每个季度捐赠的资金将会继续增加。我们将在下个季度进行另一轮融资，向世界兑现我们将持续回馈工程界的部分诺言。
+这些并不是开源基金要做的的全部，而仅仅只是开始。开源基金是由工程师们创立并运营的。我们得到管理层的承诺和支持，将继续为其提供资金支持，而且随着我们工程团队规模的扩大，我们每个季度捐赠的资金将会继续增加。我们将在下个季度进行另一轮融资，向世界兑现我们将持续回馈工程界的部分诺言。
