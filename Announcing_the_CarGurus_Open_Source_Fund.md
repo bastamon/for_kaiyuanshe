@@ -1,7 +1,8 @@
-![image](https://cdn-images-1.medium.com/max/1600/1*2ZQvt3M72k6t6TAi1SHjPQ.jpeg)
+![BG](https://cdn-images-1.medium.com/max/1600/1*2ZQvt3M72k6t6TAi1SHjPQ.jpeg)
 # Announcing the CarGurus Open Source Fund宣布CarGurus开源基金
 
-[Seth Woodworth](https://cdn-images-1.medium.com/fit/c/100/100/0*IqfAInZtWk20Q_u_.jpg)
+![Seth Woodworth](https://cdn-images-1.medium.com/fit/c/100/100/0*IqfAInZtWk20Q_u_.jpg)
+by:Seth Woodworth
 
 原文：[https://medium.com/cargurus-engineering-blog/announcing-the-cargurus-open-source-fund-519f97d9898](https://medium.com/cargurus-engineering-blog/announcing-the-cargurus-open-source-fund-519f97d9898)
 
